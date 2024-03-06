@@ -1,1 +1,1 @@
-# Beginning Perl for Bioinformatics
+# Experimenting with Perl for Bioinformatics
